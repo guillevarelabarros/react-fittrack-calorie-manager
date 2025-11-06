@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 [Live Demo](https://fittrack-dev.netlify.app)
+## 🧠 About the Project
 
 **FitTrack** is a modern and responsive web app to track daily calorie intake
 and exercise.
@@ -20,7 +20,9 @@ It allows users to **log meals and activities**, **visualize calorie balance**,
 and **switch between light and dark themes** with persistent data in
 **LocalStorage**.
 
----
+## 🌐 Live Demo
+
+[👉 Watch the Demo](https://fittrack-dev.netlify.app)
 
 ## 📸 Screenshots
 
@@ -102,7 +104,18 @@ yarn build
 
 ## 🧑‍💻 Author
 
-Guille Varela Barros LinkedIn • GitHub
+Guillermo Ignacio Varela Barros
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/guillevarelabarros
+
+- 💻 GitHub: https://github.com/guillevarelabarros
+
+## 🔗 Useful Links
+
+📹 Demo: https://fittrack-dev.netlify.app
+
+💻 Repository:
+https://github.com/guillevarelabarros/react-fittrack-calorie-manager
 
 ## 💡 Quote
 
